@@ -1,3 +1,5 @@
+![CI](https://github.com/Xanabel/url-shortener-cli/actions/workflows/gradle.yml/badge.svg)
+
 # URL Shortener CLI (Gradle + Java 17)
 
 Консольный сервис для сокращения ссылок.
